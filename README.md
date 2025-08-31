@@ -21,7 +21,7 @@ predictive models that can assist in the early detection of heart disease.
   - Cholesterol vs Resting BP trends
   - Correlation heatmap for feature importance
 
--SQL Queries
+- SQL Queries
   - Performed queries for data filtering, grouping, and aggregation
   - Extracted insights using SQL operations
 
