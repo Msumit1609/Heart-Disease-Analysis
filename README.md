@@ -16,17 +16,17 @@ predictive models that can assist in the early detection of heart disease.
   - Normalizing/standardizing features
   
 - Exploratory Data Analysis (EDA)
- - Age distribution
- - Chest pain type analysis
- - Cholesterol vs Resting BP trends
- - Correlation heatmap for feature importance
+  - Age distribution
+  - Chest pain type analysis
+  - Cholesterol vs Resting BP trends
+  - Correlation heatmap for feature importance
 
 -SQL Queries
- - Performed queries for data filtering, grouping, and aggregation
- - Extracted insights using SQL operations
+  - Performed queries for data filtering, grouping, and aggregation
+  - Extracted insights using SQL operations
 
 - Visualization
-- Multiple charts and heatmaps created for clear insights
+  - Multiple charts and heatmaps created for clear insights
  
 --- 
 
