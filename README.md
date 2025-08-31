@@ -27,18 +27,24 @@ predictive models that can assist in the early detection of heart disease.
 
 4.Visualization
  a.Multiple charts and heatmaps created for clear insights
+ 
 --- 
+
 **Results & Insights**
 1.Age and chest pain type are strong indicators of heart disease.
 2.High cholesterol and resting blood pressure show significant correlation with heart disease risk.
 3.Among machine learning models, XGBoost performed best in prediction accuracy.
+
 ---
+
 **Tech Stack**
 
 1.Python (Pandas, NumPy, Matplotlib, Seaborn,Psycopg2)
 2.SQL (for database operations and queries)
 3.Jupyter Notebook (for analysis and modeling)
+
 ---
+
 **How to Run**
 ```
 **Step 1:Clone the repository**
@@ -53,7 +59,9 @@ jupyter notebook
 
 **Step 4:**Run Heart Analysis.ipynb to view analysis and results.
 ```
+
 ---
+
 **Acknowledgments**
 
 Dataset and inspiration taken from Heart Disease UCI dataset.
